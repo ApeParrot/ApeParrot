@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 
 ## 🧭 About me
 I’m an Italian postdoctoral researcher at the **Munich Institute of Robotics and Machine Intelligence (MIRMI), TUM**. My work focuses on **magnetic sensing & modeling**, **wearable/soft robotics**, and **physical human–robot interaction**, with the broader goal of making human–robot interfaces more natural and intuitive. I’m currently funded by a **Marie Skłodowska-Curie Postdoctoral Fellowship** (project **SCOUT**).  
-🧪 Past stops include **Scuola Superiore Sant’Anna** (PhD, Biorobotics) and **Heidelberg University**. :contentReference[oaicite:0]{index=0}
+🧪 Past stops include **Scuola Superiore Sant’Anna** (PhD, Biorobotics) and **Heidelberg University**.
 
 ---
 
 ## 🔬 Research themes
-- **Magnetic sensing for prosthetics & exoskins** — from modeling to embedded implementation. :contentReference[oaicite:1]{index=1}  
-- **Wearable robotics & pHRI** — control, intent inference, and safe assistance. :contentReference[oaicite:2]{index=2}  
-- **Mechatronics for human–machine interfaces** — robust sensing pipelines for out-of-lab use. :contentReference[oaicite:3]{index=3}
+- **Magnetic sensing for prosthetics & exoskins** — from modeling to embedded implementation.
+- **Wearable robotics & pHRI** — control, intent inference, and safe assistance.
+- **Mechatronics for human–machine interfaces** — robust sensing pipelines for out-of-lab use.
 
 ---
 
@@ -49,21 +49,21 @@ I’m an Italian postdoctoral researcher at the **Munich Institute of Robotics a
 - **PhD, Biorobotics (cum laude)** — Scuola Superiore Sant’Anna (2023)  
 - **MSc, Bionics Engineering (110/110 cum laude)** — University of Pisa & SSSA (2019)  
 - **BSc, Information Engineering (110/110)** — University of Padua (2017)  
-During my PhD I worked on the **Myokinetic Interface** for dexterous control and proprioceptive feedback in transradial amputees and contributed to national/EU projects (e.g., **ERC Starting Grant Myki**). :contentReference[oaicite:4]{index=4}
+During my PhD I worked on the **Myokinetic Interface** for dexterous control and proprioceptive feedback in transradial amputees and contributed to national/EU projects (e.g., **ERC Starting Grant Myki**).
 
 ---
 
 ## 🏆 Selected milestones
-- 🏅 **Marie Skłodowska-Curie Postdoctoral Fellowship (SCOUT)**, 2024. :contentReference[oaicite:5]{index=5}  
-- 🥇 **ICRA’24 TC Workshop Poster – 1st Prize**, “Supervised Autonomy: How to Shape Human-Robot Interaction…” (Heidelberg Univ.). :contentReference[oaicite:6]{index=6}
+- 🏅 **Marie Skłodowska-Curie Postdoctoral Fellowship (SCOUT)**, 2024.
+- 🥇 **ICRA’24 TC Workshop Poster – 1st Prize**, “Supervised Autonomy: How to Shape Human-Robot Interaction…” (Heidelberg Univ.).
 
 ---
 
 ## 🖇️ Recent publications & profiles
-- Browse my publications on **Google Scholar** → [scholar.google.com/citations?user=efrwL3IAAAAJ](https://scholar.google.com/citations?user=efrwL3IAAAAJ&hl=it) :contentReference[oaicite:7]{index=7}  
-- Short research/story overview on my **website** → [federicomasierophd.com](https://federicomasierophd.com/) :contentReference[oaicite:8]{index=8}
+- Browse my publications on **Google Scholar** → [scholar.google.com/citations?user=efrwL3IAAAAJ](https://scholar.google.com/citations?user=efrwL3IAAAAJ&hl=it)
+- Short research/story overview on my **website** → [federicomasierophd.com](https://federicomasierophd.com/)
 
-> *I’ve published in venues like **IEEE TNSRE**, **IEEE Sensors**, **Journal of Neural Engineering**, **Advanced Science**, and **Science Robotics**. Full list on my website/Scholar.* :contentReference[oaicite:9]{index=9}
+> *I’ve published in International Peer Reviewed Journals like **IEEE TNSRE**, **IEEE Sensors**, **Journal of Neural Engineering**, **Advanced Science**, and **Science Robotics**. Full list on my website/Scholar.*
 
 ---
 
@@ -77,7 +77,7 @@ If you’re into **prosthetics**, **soft wearables**, or **magnetic sensing**, I
 ---
 
 ## 📫 Get in touch
-- 📮 Email: **federico.masiero@tum.de** (or via my website’s contact) :contentReference[oaicite:10]{index=10}  
+- 📮 Email: **federico.masiero@tum.de** (or via my website’s contact)
 - 🔗 LinkedIn: **/in/fedemasi**  
 - 🌐 Web: **federicomasierophd.com**
 
